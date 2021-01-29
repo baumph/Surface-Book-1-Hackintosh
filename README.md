@@ -5,6 +5,7 @@ Surface Book gen 1 Hackintosh MacOS 11
 
 Specs:
 
+
 Motherboard: Surface Book gen 1
 
 CPU: Intel Core i5 6300u
