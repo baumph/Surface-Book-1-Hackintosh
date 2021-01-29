@@ -20,42 +20,42 @@ Specs:
 Whats Working:
 
 
-Integrated Graphics
+	Integrated Graphics
 
-Audio/Microphone
+	Audio/Microphone
 
-All iServices
+	All iServices
 
-External and internal monitors
+	External and internal monitors
 
-All gestures
+	All gestures
 
-All Slots including SD Card
+	All Slots including SD Card
 
-Surface Dock with all ports
+	Surface Dock with all ports
 	
 
 Whats partially working:
 
 
 
-Battery indicator - it gets confused because of the two batteries
+	Battery indicator - it gets confused because of the two batteries
 
-Detaching and attaching the display
+	Detaching and attaching the display
 
-Sidecar (the surface complains about the power consumption)
+	Sidecar (the surface complains about the power consumption)
 
-Sleep
+	Sleep
 
 
 Whats not working:
 
 
-Wifi and BT (with dongle it works)
+	Wifi and BT (with dongle it works)
 
-Touchscreen (maybe someone has an idea)
+	Touchscreen (maybe someone has an idea)
 
-Airdrop/Handoff
+	Airdrop/Handoff
 
-DGPU
+	DGPU
 
